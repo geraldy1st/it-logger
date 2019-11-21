@@ -1,25 +1,18 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
+      "message": "hey whats up!",
       "attention": false,
-      "date": "03-09-2019",
-      "tech": "Sam Smith"
+      "tech": "Anna William",
+      "date": "2019-11-21T11:00:01.426Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Work on back office",
+      "message": "new combo video",
       "attention": true,
-      "date": "03-11-2019",
-      "tech": "John Doe"
-    },
-    {
-      "id": 3,
-      "message": "Changed memory on office",
-      "attention": false,
-      "date": "03-12-2019",
-      "tech": "Sarah Connor"
+      "tech": "Lee Chaolan",
+      "date": "2019-11-21T11:00:48.856Z",
+      "id": 2
     }
   ],
   "techs": [
