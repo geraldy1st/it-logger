@@ -1,18 +1,18 @@
 {
   "logs": [
     {
-      "message": "hey whats up!",
-      "attention": false,
-      "tech": "Anna William",
-      "date": "2019-11-21T11:00:01.426Z",
-      "id": 1
-    },
-    {
-      "message": "new combo video",
+      "id": 2,
+      "message": "new combo video 22222",
       "attention": true,
       "tech": "Lee Chaolan",
-      "date": "2019-11-21T11:00:48.856Z",
-      "id": 2
+      "date": "2019-11-22T11:16:00.032Z"
+    },
+    {
+      "message": "New character is coming",
+      "attention": true,
+      "tech": "Hwoarang DoSan",
+      "date": "2019-11-22T11:01:33.204Z",
+      "id": 3
     }
   ],
   "techs": [
