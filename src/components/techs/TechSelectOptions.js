@@ -8,16 +8,18 @@ const TechSelectOptions = ({ getTechs, tech: { techs, loading } }) => {
     getTechs();
     // eslint-disable-next-line
   }, []);
+
   return (
     !loading &&
     techs !== null &&
     techs.map(t => (
-      <option key={t.id} value={`${t.firsName} ${t.lastName}`}>
+      <option key={t.id} value={`${t.firstName} ${t.lastName}`}>
         {t.firstName} {t.lastName}
       </option>
     ))
   );
 };
+
 TechSelectOptions.propTypes = {
   tech: PropTypes.object.isRequired,
   getTechs: PropTypes.func.isRequired
